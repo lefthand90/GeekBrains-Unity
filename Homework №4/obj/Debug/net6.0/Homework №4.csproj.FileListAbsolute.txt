@@ -1,0 +1,14 @@
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.AssemblyInfoInputs.cache
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.AssemblyInfo.cs
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\Homework №4.exe
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\Homework №4.deps.json
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\Homework №4.runtimeconfig.json
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\Homework №4.dll
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\ref\Homework №4.dll
+D:\проекты Visual Studio\Homework №4\Homework №4\bin\Debug\net6.0\Homework №4.pdb
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.dll
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\ref\Homework №4.dll
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.pdb
+D:\проекты Visual Studio\Homework №4\Homework №4\obj\Debug\net6.0\Homework №4.genruntimeconfig.cache
